@@ -29,7 +29,8 @@ void main(){
                 else
                 matrix[i][j]=top;
             }
-            printf("%d",matrix[i][j]);
+            printf("%d ",matrix[i][j]);
         }
+        printf("\n");
     }
 }
